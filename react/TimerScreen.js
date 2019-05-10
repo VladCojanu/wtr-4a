@@ -13,7 +13,7 @@ class TimerScreen extends React.Component {
   }
 
   componentDidMount() {
-    this.interval = setInterval(()=> this.updateState(), 10)
+    this.interval = setInterval(()=> this.updateState(), 30)
   }
 
   updateState() {

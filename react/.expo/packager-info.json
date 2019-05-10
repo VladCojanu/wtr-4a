@@ -1,10 +1,10 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 9762,
-  "expoServerNgrokUrl": "https://df-icc.vcojanu.react.exp.direct",
-  "packagerNgrokUrl": "https://packager.df-icc.vcojanu.react.exp.direct",
-  "ngrokPid": 9777,
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
   "webpackServerPort": null
 }

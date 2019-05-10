@@ -27,7 +27,7 @@ class TimerViewController: UIViewController {
     
     
     func runTimer() {
-        timer = Timer.scheduledTimer(timeInterval: 0.01, target: self,   selector: (#selector(TimerViewController.updateTimer)), userInfo: nil, repeats: true)
+        timer = Timer.scheduledTimer(timeInterval: 0.03, target: self,   selector: (#selector(TimerViewController.updateTimer)), userInfo: nil, repeats: true)
     }
 
     @objc func updateTimer() {
